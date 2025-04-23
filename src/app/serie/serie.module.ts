@@ -5,6 +5,7 @@ import { SerieComponent } from './serie.component';
 @NgModule({
   declarations: [SerieComponent],
   imports: [
+    // Arreglo de modulos que necesita
     CommonModule
   ],
   exports: [SerieComponent]
